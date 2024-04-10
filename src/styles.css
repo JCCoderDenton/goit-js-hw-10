@@ -69,6 +69,10 @@ h1 {
       75%  {clip-path:polygon(50% 50%,0 0,100% 0,100% 100%,0 100%,0 100%)}
       100% {clip-path:polygon(50% 50%,0 0,100% 0,100% 100%,0 100%,0 0)}
   }
+
+
+
+  
 .cat-info {
     margin-top: 20px;
     padding: 20px;
